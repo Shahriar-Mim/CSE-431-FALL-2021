@@ -1,9 +1,0 @@
-Course: CSE431 (Natural Language Processing) FALL2021, BRAC University
-
-Group No: 6 
-
-Submitted By: 
-Ishraqul Islam - 19141008
-Aqil Mahmud -  18341010
-Fardin Rizvy Rahat -  17101245
-MD. Shahriar Mim - 17101463
